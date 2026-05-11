@@ -8,17 +8,10 @@ Proyek ini adalah implementasi template website profil perumahan yang dirancang 
 2.  **Halaman Login (`login.html`):** Antarmuka otentikasi untuk staf administrasi.
 3.  **Halaman Dashboard Admin (`admin.html`):** Manajemen inventaris unit perumahan menggunakan tabel data dan formulir input.
 
-## Spesifikasi Teknis
-
--   **Frontend:** HTML5, CSS3, Bootstrap 5.3 (CDN).
--   **JavaScript:** Tidak digunakan (Sesuai spesifikasi PRD).
--   **Desain:** Palet warna minimalis (Hitam, Putih, Abu-abu).
--   **Responsif:** Menggunakan sistem grid Bootstrap agar optimal di berbagai perangkat.
-
 ## Struktur Folder
 
 ```text
-uts-pemrograman-web-perumahan/
+uts-pemrograman-web/
 ├── css/
 │   └── style.css      # Custom styling & overrides
 ├── img/               # Folder untuk aset gambar (dan screenshot)
